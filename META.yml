@@ -1,0 +1,10 @@
+# http://module-build.sourceforge.net/META-spec.html
+#
+name:         Text-Phonetic-MatchRatingCodex
+version:      1.0
+version_from: MatchRatingCodex.pm
+installdirs:  site
+requires:
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.16

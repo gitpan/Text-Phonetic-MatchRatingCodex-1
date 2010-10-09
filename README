@@ -1,0 +1,30 @@
+NAME
+
+    Text::Phonetic::MatchRatingCodex - MatchRatingCodex algorithm
+
+SYNOPSIS
+
+      use Text::Phonetic::MatchRatingCodex;
+  
+      my $phonetic = Text::Phonetic::MatchRatingCodex->new();
+      $encoded_string = $phonetic->encode($string);
+
+DESCRIPTION
+
+    The MatchRatingCodex search algorithm is a phonetic algorithm.
+
+AUTHOR
+
+    Stefan Gipper <stefanos@cpan.org>, http://www.coder-world.de/
+
+COPYRIGHT
+
+	Text::Phonetic::MatchRatingCodex is Copyright (c) 2010 Stefan Gipper
+	All rights reserved.
+
+	This program is free software; you can redistribute
+	it and/or modify it under the same terms as Perl itself.
+
+SEE ALSO
+
+    perl(1), Text::Phonetic(3pm).
